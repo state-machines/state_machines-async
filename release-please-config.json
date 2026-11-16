@@ -1,0 +1,10 @@
+{
+  "packages": {
+    ".": {
+      "release-type": "ruby",
+      "package-name": "state_machines-async",
+      "version-file": "lib/state_machines/async/version.rb",
+      "bump-minor-pre-major": true
+    }
+  }
+}
